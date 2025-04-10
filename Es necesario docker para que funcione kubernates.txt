@@ -1,0 +1,10 @@
+Tarea 
+
+¿es necesario docker para que funcione kubernates?
+
+No es nesesario docker para el funcionamiento de kuernates
+Pero el funcionamiento de los dos se complemeta, tambien
+pueden ser utlisadas otros tipos de herramienta de 
+contenedores para hacer uso de kubernates como buildah,
+kaniko o nerdctl que tambien permiten crear imagenes y
+contedores.
